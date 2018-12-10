@@ -3,8 +3,6 @@ date: 201809
 # flight-seat-selector
 HB Prep (Python) Project - Program for randomly selecting a seat on a plane based on A-M-W preference
 
-
-###########################################
 #Basic Rules
 #1) Must choose from three types of seats: window, middle, aisle
 #2) Every seat has a row # with the three types of seats above.
