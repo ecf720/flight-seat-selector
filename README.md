@@ -12,15 +12,15 @@ Basic Rules
 5) When a seat with a row # and letter is chosen, the program ends
 
 Pseudocode the Work Flow
-Offer open seat and check if the user wants it.
-If they want it, print the seat map with the spot taken and wish them a good flight.
-If they don't want it, ask if they want window, middle, or aisle.
+1) Offer open seat and check if the user wants it.
+2) If they want it, print the seat map with the spot taken and wish them a good flight.
+3) If they don't want it, ask if they want window, middle, or aisle.
 (make sure what's offered isn't what was previously offered)
-If they want it, print the seat map with the spot taken and wish them a good flight.
-If they don't want it, ask what row they want. 
+4) If they want it, print the seat map with the spot taken and wish them a good flight.
+5) If they don't want it, ask what row they want. 
 (make sure what's offered isn't what was previously offered)
-Offer open seat and check if the user wants it.
-If they want it, print the seat map with the spot taken and wish them a good flight.
+6) Offer open seat and check if the user wants it.
+7) If they want it, print the seat map with the spot taken and wish them a good flight.
 
 What data do we need to keep track of
 1) What seat type and row #s have already been offered and turned down.
